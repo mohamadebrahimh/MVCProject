@@ -1,0 +1,179 @@
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Store.Services.dll.config
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Store.Services.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Store.Services.pdb
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\csc.exe
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\csc.exe.config
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\csc.rsp
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\csi.exe
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\csi.exe.config
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\csi.rsp
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.AppContext.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Console.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.IO.Compression.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Security.Claims.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.ValueTuple.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\vbc.exe
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\vbc.exe.config
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\vbc.rsp
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\CaptchaMvc.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\EntityFramework.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Newtonsoft.Json.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Store.Models.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Helpers.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Http.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Mvc.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Razor.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Webpages.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Webpages.Razor.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Store.Models.pdb
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\CaptchaMvc.pdb
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\CaptchaMvc.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\EntityFramework.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Razor.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Webpages.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Webpages.Razor.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Helpers.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Mvc.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Newtonsoft.Json.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Http.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\obj\Debug\Store.Services.csprojAssemblyReference.cache
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\obj\Debug\Store.Services.csproj.CoreCompileInputs.cache
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\obj\Debug\Store.Services.csproj.CopyComplete
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\obj\Debug\Store.Services.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\obj\Debug\Store.Services.pdb
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\obj\Debug\Store.Services.Migrations.InitialDatabase.resources
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\obj\Debug\Store.Services.csproj.GenerateResource.cache
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\Swashbuckle.Core.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Services\bin\WebActivatorEx.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Store.Services.dll.config
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Store.Services.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Store.Services.pdb
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\csc.exe
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\csc.exe.config
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\csc.rsp
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\csi.exe
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\csi.exe.config
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\csi.rsp
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.AppContext.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Console.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.IO.Compression.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Security.Claims.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.ValueTuple.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\vbc.exe
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\vbc.exe.config
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\vbc.rsp
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\EntityFramework.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Newtonsoft.Json.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Store.Models.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Swashbuckle.Core.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Helpers.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Http.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Mvc.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Razor.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Webpages.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Webpages.Razor.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\WebActivatorEx.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Store.Models.pdb
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\CaptchaMvc.pdb
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\CaptchaMvc.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\EntityFramework.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Razor.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Webpages.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Webpages.Razor.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Helpers.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Mvc.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Newtonsoft.Json.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Http.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\obj\Debug\Store.Services.csprojAssemblyReference.cache
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\obj\Debug\Store.Services.csproj.CoreCompileInputs.cache
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\obj\Debug\Store.Services.csproj.CopyComplete
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\obj\Debug\Store.Services.dll
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\obj\Debug\Store.Services.pdb
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\obj\Debug\Store.Services.Migrations.InitialDatabase.resources
+C:\Users\mohamadebrahim\Desktop\Store_2\Store\Store.Services\obj\Debug\Store.Services.csproj.GenerateResource.cache

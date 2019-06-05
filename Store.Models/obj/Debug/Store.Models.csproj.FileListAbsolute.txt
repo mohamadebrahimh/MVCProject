@@ -1,0 +1,6 @@
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Models\bin\Debug\Store.Models.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Models\bin\Debug\Store.Models.pdb
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Models\obj\Debug\Store.Models.csprojAssemblyReference.cache
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Models\obj\Debug\Store.Models.csproj.CoreCompileInputs.cache
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Models\obj\Debug\Store.Models.dll
+C:\Users\Saeed Mardomi\Desktop\Store\Store.Models\obj\Debug\Store.Models.pdb
